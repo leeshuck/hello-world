@@ -1,4 +1,4 @@
 hello-world
 ===========
 
-hello world repository
+Greetings from the blue planet.
